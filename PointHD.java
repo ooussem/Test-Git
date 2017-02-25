@@ -1,6 +1,7 @@
 class PointHD
 {
 	private float x,y;
+	String toto;
 	
 	
 	//************************** Contructeur ****************************************
